@@ -12,6 +12,8 @@ scikit-learn = "^1.0.2"
 pyarrow = "^8.0.0"
 pathlib = "^1.0.1"
 matplotlib = "^3.5.2"
+jax = "^0.3.13"
+jaxlib = "^0.3.10"
 
 [tool.poetry.dev-dependencies]
 
